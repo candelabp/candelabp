@@ -9,7 +9,7 @@ Soy estudiante de segundo año de la **Tecnicatura en Programación** en la **UT
 
 ## 🌱 **Actualmente aprendiendo:**
 - Lenguajes de programación: Python, JavaScript, Java
-- Frameworks y herramientas: Bootstrap, Spring Boot, Git
+- Frameworks y herramientas: Bootstrap, Spring Boot, Git, React
 
 ## 🔗 **Conecta conmigo:**
 - [LinkedIn](https://www.linkedin.com/in/candela-puerta-42491517a/) - Conoce más sobre mi perfil profesional.
