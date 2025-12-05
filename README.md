@@ -1,20 +1,52 @@
-# ¡Hola! Soy **Candela** 👋
+# 👋 ¡Hola! Soy **Candela Puerta**
 
-Soy estudiante de segundo año de la **Tecnicatura en Programación** en la **UTN FRM**. Apasionada por la tecnología, la programación y el aprendizaje constante.
-
-## 🚀 **Acerca de mí:**
-- 📚 Estudiante dedicada con un enfoque en el desarrollo de software.
-- 💻 Trabajo en proyectos personales y académicos para fortalecer mis conocimientos.
-- 👩‍💻 Interesada en áreas como el desarrollo web, bases de datos y algoritmos.
-
-## 🌱 **Actualmente aprendiendo:**
-- Lenguajes de programación: Python, JavaScript, Java
-- Frameworks y herramientas: Bootstrap, Spring Boot, Git, React
-
-## 🔗 **Conecta conmigo:**
-- [LinkedIn](https://www.linkedin.com/in/candela-puerta-42491517a/) - Conoce más sobre mi perfil profesional.
+Soy **Técnica Universitaria en Programación** egresada de la **UTN FRM**.  
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+## 🚀 Sobre mí
+- 🎓 Profesional del desarrollo con enfoque en **backend Java** y **frontend con React**.  
+- 💻 Trabajo en proyectos personales y profesionales para seguir creciendo como desarrolladora.  
+- 🌐 Interesada en desarrollo web full-stack, diseño de APIs y base de datos.
 
+---
+
+## 🛠️ Tecnologías que utilizo
+
+### 🔹 Lenguajes
+- Java  
+- JavaScript  
+- Python  
+
+### 🔹 Frameworks y herramientas
+- Spring Boot  
+- React  
+- Bootstrap  
+- Git & GitHub  
+- MySQL  
+
+### 🔹 Badges 
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌱 Actualmente trabajando en
+- Desarrollo de proyectos full-stack con Java + React.  
+- Prácticas de diseño de APIs REST.  
+- Optimización y modelado de bases de datos.
+
+---
+
+## 🔗 Conecta conmigo
+- 💼 LinkedIn: https://www.linkedin.com/in/candela-puerta-42491517a/
+
+---
+
+## 💬 ¡Gracias por visitar mi perfil! 😊  
