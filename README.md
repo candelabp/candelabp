@@ -16,12 +16,11 @@ Soy **Técnica Universitaria en Programación** egresada de la **UTN FRM**.
 ### 🔹 Lenguajes
 - Java  
 - JavaScript  
-- Python  
+- Typescript 
 
 ### 🔹 Frameworks y herramientas
 - Spring Boot  
-- React  
-- Bootstrap  
+- React   
 - Git & GitHub  
 - MySQL  
 
@@ -31,7 +30,6 @@ Soy **Técnica Universitaria en Programación** egresada de la **UTN FRM**.
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
