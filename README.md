@@ -44,7 +44,3 @@ Soy **Técnica Universitaria en Programación** egresada de la **UTN FRM**.
 
 ## 🔗 Conecta conmigo
 - 💼 LinkedIn: https://www.linkedin.com/in/candela-puerta-42491517a/
-
----
-
-## 💬 ¡Gracias por visitar mi perfil! 😊  
